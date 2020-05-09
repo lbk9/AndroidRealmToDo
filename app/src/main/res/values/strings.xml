@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoRealm</string>
+    <string name="todo_row_title">What do you want to do?</string>
+</resources>
